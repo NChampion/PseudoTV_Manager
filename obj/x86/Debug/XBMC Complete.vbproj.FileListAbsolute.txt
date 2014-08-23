@@ -1,0 +1,22 @@
+\\MEDIA-PC\Storage2\Bkup\Visual Studio 2010 - Copy\Projects\XBMC Complete\XBMC Complete\bin\Debug\XBMC Complete.exe.config
+\\MEDIA-PC\Storage2\Bkup\Visual Studio 2010 - Copy\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\XBMC Complete.exe
+\\MEDIA-PC\Storage2\Bkup\Visual Studio 2010 - Copy\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\XBMC Complete.xml
+\\MEDIA-PC\Storage2\Bkup\Visual Studio 2010 - Copy\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\XBMC Complete.pdb
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\bin\Debug\PseudoTV Manager.exe.config
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\bin\Debug\PseudoTV Manager.exe
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\bin\Debug\PseudoTV Manager.pdb
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\bin\Debug\PseudoTV Manager.xml
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV_Manager.Form1.resources
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV_Manager.Form2.resources
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV_Manager.Form3.resources
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV_Manager.Form4.resources
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV_Manager.Form5.resources
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV_Manager.Form6.resources
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV_Manager.Resources.resources
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV Manager.exe
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV Manager.xml
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV Manager.pdb
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV_Manager.Form7.resources
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\PseudoTV_Manager.form8.resources
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\XBMC Complete.vbprojResolveAssemblyReference.cache
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\XBMC Complete\XBMC Complete\obj\x86\Debug\XBMC Complete.vbproj.GenerateResource.Cache
